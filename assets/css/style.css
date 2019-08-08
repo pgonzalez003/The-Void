@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+#intro {
+    margin-top: 100pt;
+}
+
+#title {
+    text-align: center;
+}
+
+#titleCont {
+    margin-top: 70pt;
+}
+
+#textCont {
+    margin-top: 70pt;
+}
+
+#buttonDiv {
+    text-align: center;
+    margin-top: 35pt;
+}
