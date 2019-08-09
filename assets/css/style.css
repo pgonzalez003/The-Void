@@ -1,10 +1,15 @@
 body{
     background-color: black;
+    font-family: 'Righteous', cursive;
 }
 
 h1{
     color: whitesmoke;
-    font-family: 'Righteous', cursive;
+}
+
+.card{
+    text-align: center;
+    padding-bottom: 15pt;
 }
 
 #intro {
